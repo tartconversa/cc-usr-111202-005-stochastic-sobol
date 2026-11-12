@@ -1,13 +1,13 @@
 [
   {
     "path": "fixtures/design.json",
-    "sha256": "0dd4257b77f78073b09c3b391f73529692126dc6de6552c06f8a3e4e0b2cba89",
-    "size_bytes": 4470
+    "sha256": "7993eca141259b6d737ab7204385eb4987a47ae340d562c9dcd979fe81d09a9b",
+    "size_bytes": 4582
   },
   {
     "path": "fixtures/replicates.csv",
-    "sha256": "707179803abb397de5dcd3058877efda5ed9da7c1b9802f91fb0aece97d0bc57",
-    "size_bytes": 2366
+    "sha256": "fdd80420f393c6cba8d1478c78073c83276142fae1f067f139f7eac2db925175",
+    "size_bytes": 2341
   },
   {
     "path": "fixtures/sensitivity.json",
