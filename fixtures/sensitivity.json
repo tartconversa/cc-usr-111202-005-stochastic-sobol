@@ -1,0 +1,11 @@
+{
+  "minimum_repeats": 2,
+  "bootstrap_repeats": 200,
+  "seed": 1120205,
+  "analytical_reference": {
+    "conditional_mean": "x1+2*x2",
+    "input_independence": true,
+    "observation_noise_variance": 1
+  },
+  "reported_target": "variance_of_conditional_mean"
+}
